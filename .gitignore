@@ -1,0 +1,16 @@
+.DS_Store
+__MACOSX/
+._*
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+node_modules/
+client-work/
+output/
+outputs/
+browser-profile/
+playwright/.auth/
+state.json
